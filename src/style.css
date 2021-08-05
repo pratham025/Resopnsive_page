@@ -36,6 +36,7 @@ header{
     height: 1px;
     padding: 200px  100px;
     border-radius: 50%;
+    opacity: 70%;
 }
 
 header .logo{
@@ -48,6 +49,7 @@ header .logo{
     font-weight: 800;
     letter-spacing: 1px;
 }
+
 header .navigation a{
     color:#000;
     
@@ -98,6 +100,8 @@ header .navigation a:hover{
     border-radius: 5px;
 
 }
+
+
 
 .content .info-btn{
     color : #fff;
